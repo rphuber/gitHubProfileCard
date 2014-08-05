@@ -1,0 +1,40 @@
+.container {
+  text-align: center;
+  background-color:  #434A54;
+}
+
+.card {
+  width: 300px;
+  text-align: center;
+  display: inline-block;
+  margin: 25px;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: #4FC1E9;
+
+    img {
+      height:100px;
+      border-radius: 100%;
+      vertical-align: middle;
+    }
+
+    h2 {
+      margin-left: 10px;
+      margin-bottom: 5px;
+      clear: right;
+    }
+
+    h3 {
+      margin-top: 5px;
+    }
+
+    ul {
+      text-align: left;
+      list-style: none;
+    }
+
+    li {
+      text-decoration:none;
+    }
+}
